@@ -16,8 +16,7 @@ Python 3
 How to Run
 Download the Python file.
 Run the program using Python.
-Enter the student's name and marks.
-View the generated report.
+
 -------STUDENT REPORT--------
 Your Name Is: Rahul
 Your Five Subject Total Is: 450
