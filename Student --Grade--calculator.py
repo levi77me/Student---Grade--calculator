@@ -27,6 +27,4 @@ else:
         print("Your Grade is:A+")  
 
     print("Result:PASS")  
-    
    
-        
