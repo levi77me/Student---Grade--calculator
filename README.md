@@ -22,12 +22,13 @@ How to Run
 
 
 -------STUDENT REPORT--------
-Your Name Is: Rahul
-Your Five Subject Total Is: 450
-Your Average Is: 90.0
-Your Percentage: 90.0 %
-Your Grade is:A
-Result:PASS
+
+*  Your Name Is: Rahul
+*  Your Five Subject Total Is: 450
+*  Your Average Is: 90.0
+*  Your Percentage: 90.0 %
+*  Your Grade is:A
+*  Result:PASS
 
 
 
