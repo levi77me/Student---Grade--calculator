@@ -1,4 +1,4 @@
-#STUDENT---GRADE---SYSTEM
+#        *STUDENT---GRADE---SYSTEM*
 Python project for calculating student grades, total marks, and average marks.
 Student Grade Calculator.It is made in mobile .It's by a 12 th student 
 
